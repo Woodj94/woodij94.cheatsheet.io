@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    background-color: white;
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  header {
+    text-align: center;
+    background-color: lightblue;
+    width: 100%;
+    border-radius: 4px;
+    border: 2px solid black;
+  }
+  
+  h1 {
+    display: inline-block;
+  }
+  
+  h2 {
+    text-decoration: underline;
+  }
+  
+  h3 {
+    text-decoration: underline;
+  }
+  
+  h4 {
+    text-align: left;
+    text-decoration: underline;
+    padding: 0px 50px;
+  }
+  ul {
+    display: inline-block;
+  }
+  
+  li {
+    display: inline-block;
+    color: black;
+    width: 60px;
+    padding: 10px 20px;
+    margin-bottom: 3px;
+  }
+  
+  li:hover {
+    border-radius: 4px;
+    background-color: white;
+  }
+  table {
+    border-radius: 4px;
+    border: 2px solid black;
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  thead {
+    background-color: lightblue;
+  }
+  td {
+    border-top: 1px solid black;
+  }
+  
+  #HTML {
+    border-radius: 4px;
+    border: 2px solid black;
+  }
+  
+  #CSS {
+    border-radius: 4px;
+    border: 2px solid black;
+  }
+  
+  
